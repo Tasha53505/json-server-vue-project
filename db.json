@@ -29,6 +29,36 @@
         "date": "July 22, 2022",
         "time": "11:00",
         "organizer": "Carey Wales"
-      }
+      },
+      {
+        "id": 222,
+        "category": "food",
+        "title": "Community Gardening",
+        "description": "Join us as we tend to the community edible plants.",
+        "location": "Flora City",
+        "date": "March 14, 2022",
+        "time": "10:00",
+        "organizer": "Fern Pollin"
+      },
+      {
+        "id": 333,
+        "category": "food",
+        "title": "Community Gardening",
+        "description": "Join us as we tend to the community edible plants.",
+        "location": "Flora City",
+        "date": "March 14, 2022",
+        "time": "10:00",
+        "organizer": "Fern Pollin"
+      },
+      {
+        "id": 444,
+        "category": "food",
+        "title": "Community Gardening",
+        "description": "Join us as we tend to the community edible plants.",
+        "location": "Flora City",
+        "date": "March 14, 2022",
+        "time": "10:00",
+        "organizer": "Fern Pollin"
+      }      
     ]
   }
